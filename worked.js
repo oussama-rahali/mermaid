@@ -1,2 +1,2 @@
 //Js file to say Worked
-alert(worked)
+alert('worked')
